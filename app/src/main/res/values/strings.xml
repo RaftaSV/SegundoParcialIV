@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SegundoParciasIV</string>
+    <string name="tv_Mostrar_String">Seleccionar una mascota </string>
+    <string name="tv_mascotas">Mascotas</string>
+</resources>
